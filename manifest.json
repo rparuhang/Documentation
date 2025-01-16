@@ -1,0 +1,198 @@
+{
+  "source_base_path": "C:/Users/paruh/source/repos/ase-demo-assignment-rparuhang/ASE_Assignment_Paruhang_Component2/AES Form",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.CommandInvoker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.CommandInvoker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.ForCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.ForCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.ICommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.ICommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.IntCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.IntCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.Tests.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.Tests.AppCanvasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.Tests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.Triangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.Triangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.WriteLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.WriteLine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AES_Form.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AES_Form.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
